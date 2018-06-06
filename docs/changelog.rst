@@ -24,6 +24,7 @@ v1.19.0 - 2018-06-xx
 **Tickets resolved in this release:**
 
 - [`#482 <https://github.com/dennissiemensma/dsmr-reader/issues/482>`_] Aantal items op X-as in dashboardgrafiek variabel maken
+- [`#407 <https://github.com/dennissiemensma/dsmr-reader/issues/407>`_] More than one pvoutput account - Using new Plugin System 
 
 
 
